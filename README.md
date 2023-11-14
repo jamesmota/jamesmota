@@ -10,7 +10,7 @@ Bacharel em Design Industrial pela Universidade do Estado de Santa Catarina - UD
 
 ## Portfólio:
 
-<a href="https://www.behance.net/jamesmota/">Clique aqui para ver meu portfólio.</a>
+<a target="_blank" href="https://www.behance.net/jamesmota/">Clique aqui para ver meu portfólio.</a>
   
 ## Tecnologias que utilizo:
 
@@ -54,4 +54,5 @@ Bacharel em Design Industrial pela Universidade do Estado de Santa Catarina - UD
 ## Meus contatos:
 
 <a href="mailto:contato@jamesmota.com.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/jamesmotaesteves/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a target="_blank" href="https://www.linkedin.com/in/jamesmotaesteves/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
