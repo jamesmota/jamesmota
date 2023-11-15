@@ -2,7 +2,7 @@
 
 ## Sobre
 
-Experiência desde 2014 na área de Sistemas de Gerenciamento de Conteúdo (Content Management System - CMS) e Lojas virtuais (E-commerces e Marketplaces), com atuação em mais de duzentos projetos para pequenas, médias e grandes empresas. 
+Experiência com de Sistemas de Gerenciamento de Conteúdo (Content Management System - CMS) e Lojas virtuais (E-commerces e Marketplaces), atuando em mais de duzentos projetos para pequenas, médias e grandes empresas. 
 
 Neste período também consolidei conhecimentos em implantação, suporte técnico e customização de web design para plataformas líderes de marketing digital e comércio eletrônico, como CMS WordPress e WooCommerce, entre outras, além de ter dois projetos de marketplaces homologados pela equipe de implantação da Flexy E-commerce (Software como Serviço - SaaS), de Florianópolis (SC).
 
